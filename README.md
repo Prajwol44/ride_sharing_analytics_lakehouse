@@ -407,6 +407,27 @@ This project demonstrates practical implementation of:
 
 ---
 
+# 📁 Repository Structure
+
+```text
+ride_sharing_DE_analytics_lakehouse
+│
+├── docs
+│   └── architecture.png
+│
+├── notebooks
+│   ├── ride_raw.py
+│   ├── ride_bronze.py
+│   ├── ride_silver.py
+│   └── ride_gold.py
+│
+├── screenshots
+│
+└── README.md
+```
+
+---
+
 # 🚀 Key Takeaway
 
 This project demonstrates how a modern Data Engineering platform can transform raw ride-sharing operational data into trusted business intelligence assets using Databricks, PySpark, Delta Lake, and Medallion Architecture principles.  
